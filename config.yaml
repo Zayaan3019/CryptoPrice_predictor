@@ -1,0 +1,6 @@
+data_path: "data/raw/crypto_prices.csv"
+feature_col: "Close"
+sequence_length: 60
+epochs: 50
+batch_size: 32
+model_save_path: "models/lstm_model.h5"
