@@ -31,7 +31,6 @@ python src/predict.py --model models/lstm_model.h5 --data recent_data.csv
 ```
 ### **3. Results**
 The model demonstrates excellent performance with the following metrics:
-
-Mean Absolute Error (MAE): 0.012
-Mean Squared Error (MSE): 0.0003
+   Mean Absolute Error (MAE): 0.012
+   Mean Squared Error (MSE): 0.0003
 
